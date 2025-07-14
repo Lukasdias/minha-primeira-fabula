@@ -16,4 +16,6 @@
     x="640"
     on_click="goToPage('nova_pagina')"
   />
+
+  <
 </page>
