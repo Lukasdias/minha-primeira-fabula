@@ -8,6 +8,5 @@
   <middle />
   <ending />
 
-  <page id="autocomplete">
-    <agent text="$"
+  <page id="autocomplete" />
 </fable>
