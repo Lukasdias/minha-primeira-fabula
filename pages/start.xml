@@ -10,10 +10,10 @@
 
   <agent
     id="next_page_text"
-    text="Proxima Pagina"
+    text="Proxima Pagina, contador = $"
     animation="glitch"
     y="480"
     x="640"
-    on_click="go"
   />
+
 </page>
